@@ -7,7 +7,7 @@
 ## 🧑‍💻 About Me
 I’m a passionate **B.Sc. Computer Science student** with a strong interest in software development, AI, and cloud computing. I enjoy building practical projects, experimenting with new technologies, and solving real-world problems through code.
 
-- 💡 **Skills:** Python, Java, C++, HTML, CSS, JavaScript  
+- 💡 **Skills:** Python, C++, HTML, CSS, JavaScript  
 - 🖥️ **Tools & Frameworks:** Jupyter Notebooks, Git/GitHub, Flask, Command-Line Applications  
 - 📊 **Interests:** Data-driven projects, AI, Automation, Web Development  
 - 🌱 **Learning:** Continuously exploring new technologies and improving coding skills  
